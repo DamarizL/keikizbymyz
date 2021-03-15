@@ -1,0 +1,43 @@
+button, #boton{
+	background:#ffcdc2 ;
+	color:#ec8a6a  ;
+	font-size:14pt;
+	font-weight:italic;
+	width:170px;
+	height:30px;
+	border-radius:10px;
+}
+
+button:hover, #boton:hover{
+	background:#ffc9b7 ;
+	color:white;
+}
+
+table{
+	border:5px solid  #ebf2f2;
+	width:80%;
+	background:#f5f8f8 ;
+}
+
+td,tr {
+	border:1px solid #ebf2f2;
+}
+
+p {
+	background:#f5f8f8 ;
+	font-size:20pt;
+	text-align:center;
+	color:#DD5562;
+	font-weight:italic;
+	width:90%;
+	border-radius:7px;
+}
+
+.campo{
+	background:#f5f8f8;
+	color:#eb7065;
+	font-size:14pt;
+	font-weight:bold;
+	border-radius:7px;
+	text-align:center;
+}
